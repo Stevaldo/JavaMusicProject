@@ -1,4 +1,4 @@
-# Music Project
+# Java Music Project
 
 **Note:** Only the source code is included in this repository due to the large file size of the audio files. The complete project, including all files, is available locally.
 
