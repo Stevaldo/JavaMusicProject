@@ -11,7 +11,7 @@ Below are a few previews of the Mu.sic app:
 ![Mu.sic App Preview 1](music_preview(2).jpeg)
 ![Mu.sic App Preview 2](music_preview(4).jpeg)
 ![Mu.sic App Preview 3](music_preview(1).jpeg)
-![Mu.sic App Preview 4](music_preview(3).jpeg)
+![Mu.sic App Preview 4](music_preview(3).jpg)
 
 ---
 
